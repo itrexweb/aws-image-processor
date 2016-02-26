@@ -1,0 +1,7 @@
+{
+	"name": "itrex/aws-image-processor",
+	"description": "Wrapper functions for the aws php sdk to process images",
+	"require": {
+		"aws/aws-sdk-php": "2.5"
+	}
+}
